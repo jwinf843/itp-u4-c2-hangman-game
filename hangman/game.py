@@ -5,7 +5,7 @@ LIST_OF_WORDS = []
 
 
 def _get_random_word(list_of_words):
-    pass
+    return 
 
 
 def _mask_word(word):
